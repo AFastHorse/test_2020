@@ -10,3 +10,4 @@ Switched to a new branch 'dev'
 Switched to a new branch 'dev'
 second day.
 Creating a new branch is quick & simple.
+second day.
